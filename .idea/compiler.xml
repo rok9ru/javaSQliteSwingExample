@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="javaSQliteSwingExample" />
         <module name="Java SQL Connector Example" />
+        <module name="javaSQliteSwingExample-main" />
       </profile>
     </annotationProcessing>
   </component>
